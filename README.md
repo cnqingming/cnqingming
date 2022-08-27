@@ -1,10 +1,3 @@
-- 👋 Hi, I’m @cnqingming
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-cnqingming/cnqingming is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 嗨，我是@cnqingming
+- Steven好帅捏，可以配种吗
+<!---cnqingming/cnqingming是一个✨特殊的✨存储库，因为它的'README.md'（此文件）显示在您的GitHub配置文件中。您可以单击预览链接查看您的更改。--->
